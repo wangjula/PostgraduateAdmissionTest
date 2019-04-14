@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C3193A6922633C6A005DD5D7 /* uva_1368_dna_consensus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */; };
+		C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */; };
+		C31A0724225A203200E1C94A /* uva_455_periodic_strings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */; };
+		C3220B7F225398540030E2C3 /* master_mind_hint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3220B7D225398540030E2C3 /* master_mind_hint.cpp */; };
+		C32528B32261C2BE0098FFA3 /* uva_232_crossword.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */; };
+		C326128622524485001D4CFD /* snake_inflation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C326128422524485001D4CFD /* snake_inflation.cpp */; };
+		C3261289225250FD001D4CFD /* vertical_column.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3261287225250FD001D4CFD /* vertical_column.cpp */; };
+		C329C7C72250F9F70009AEC3 /* print_permutation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C329C7C52250F9F70009AEC3 /* print_permutation.cpp */; };
+		C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C35A09162258E80300B7E54D /* uva_1585_score.cpp */; };
+		C35A091B2258EF1500B7E54D /* uva_1586_molar_mass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */; };
+		C36B3529225C5671002EA7BF /* base_cpp_io.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36B3527225C5671002EA7BF /* base_cpp_io.cpp */; };
+		C37380B0224FB70E0028BA02 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380AF224FB70E0028BA02 /* main.cpp */; };
+		C37380B8224FB7640028BA02 /* reverse_triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380B6224FB7640028BA02 /* reverse_triangle.cpp */; };
+		C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */; };
+		C37380BE224FBE2A0028BA02 /* convert_decimal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */; };
+		C3FD38C9225B22E700C8AEC5 /* uva_227_puzzle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C37380AA224FB70D0028BA02 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1368_dna_consensus.cpp; sourceTree = "<group>"; };
+		C3193A6822633C6A005DD5D7 /* uva_1368_dna_consensus.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1368_dna_consensus.hpp; sourceTree = "<group>"; };
+		C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1225_digit_counting.cpp; sourceTree = "<group>"; };
+		C31A0720225A088C00E1C94A /* uva_1225_digit_counting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1225_digit_counting.hpp; sourceTree = "<group>"; };
+		C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_455_periodic_strings.cpp; sourceTree = "<group>"; };
+		C31A0723225A203200E1C94A /* uva_455_periodic_strings.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_455_periodic_strings.hpp; sourceTree = "<group>"; };
+		C3220B7D225398540030E2C3 /* master_mind_hint.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = master_mind_hint.cpp; sourceTree = "<group>"; };
+		C3220B7E225398540030E2C3 /* master_mind_hint.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = master_mind_hint.hpp; sourceTree = "<group>"; };
+		C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_232_crossword.cpp; sourceTree = "<group>"; };
+		C32528B22261C2BE0098FFA3 /* uva_232_crossword.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_232_crossword.hpp; sourceTree = "<group>"; };
+		C326128422524485001D4CFD /* snake_inflation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = snake_inflation.cpp; sourceTree = "<group>"; };
+		C326128522524485001D4CFD /* snake_inflation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = snake_inflation.hpp; sourceTree = "<group>"; };
+		C3261287225250FD001D4CFD /* vertical_column.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = vertical_column.cpp; sourceTree = "<group>"; };
+		C3261288225250FD001D4CFD /* vertical_column.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = vertical_column.hpp; sourceTree = "<group>"; };
+		C329C7C52250F9F70009AEC3 /* print_permutation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = print_permutation.cpp; sourceTree = "<group>"; };
+		C329C7C62250F9F70009AEC3 /* print_permutation.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = print_permutation.hpp; sourceTree = "<group>"; };
+		C35A09162258E80300B7E54D /* uva_1585_score.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1585_score.cpp; sourceTree = "<group>"; };
+		C35A09172258E80300B7E54D /* uva_1585_score.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1585_score.hpp; sourceTree = "<group>"; };
+		C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1586_molar_mass.cpp; sourceTree = "<group>"; };
+		C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1586_molar_mass.hpp; sourceTree = "<group>"; };
+		C36B3527225C5671002EA7BF /* base_cpp_io.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = base_cpp_io.cpp; sourceTree = "<group>"; };
+		C36B3528225C5671002EA7BF /* base_cpp_io.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = base_cpp_io.hpp; sourceTree = "<group>"; };
+		C37380AC224FB70E0028BA02 /* PostgraduateAdmissionTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PostgraduateAdmissionTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C37380AF224FB70E0028BA02 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C37380B6224FB7640028BA02 /* reverse_triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = reverse_triangle.cpp; sourceTree = "<group>"; };
+		C37380B7224FB7640028BA02 /* reverse_triangle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = reverse_triangle.hpp; sourceTree = "<group>"; };
+		C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sum_subsequence.cpp; sourceTree = "<group>"; };
+		C37380BA224FBACF0028BA02 /* sum_subsequence.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = sum_subsequence.hpp; sourceTree = "<group>"; };
+		C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = convert_decimal.cpp; sourceTree = "<group>"; };
+		C37380BD224FBE2A0028BA02 /* convert_decimal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = convert_decimal.hpp; sourceTree = "<group>"; };
+		C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_227_puzzle.cpp; sourceTree = "<group>"; };
+		C3FD38C8225B22E700C8AEC5 /* uva_227_puzzle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_227_puzzle.hpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C37380A9224FB70D0028BA02 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C37380A3224FB70D0028BA02 = {
+			isa = PBXGroup;
+			children = (
+				C37380AE224FB70E0028BA02 /* PostgraduateAdmissionTest */,
+				C37380AD224FB70E0028BA02 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C37380AD224FB70E0028BA02 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C37380AC224FB70E0028BA02 /* PostgraduateAdmissionTest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C37380AE224FB70E0028BA02 /* PostgraduateAdmissionTest */ = {
+			isa = PBXGroup;
+			children = (
+				C36B3527225C5671002EA7BF /* base_cpp_io.cpp */,
+				C36B3528225C5671002EA7BF /* base_cpp_io.hpp */,
+				C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */,
+				C37380BD224FBE2A0028BA02 /* convert_decimal.hpp */,
+				C37380AF224FB70E0028BA02 /* main.cpp */,
+				C3220B7D225398540030E2C3 /* master_mind_hint.cpp */,
+				C3220B7E225398540030E2C3 /* master_mind_hint.hpp */,
+				C329C7C52250F9F70009AEC3 /* print_permutation.cpp */,
+				C329C7C62250F9F70009AEC3 /* print_permutation.hpp */,
+				C37380B6224FB7640028BA02 /* reverse_triangle.cpp */,
+				C37380B7224FB7640028BA02 /* reverse_triangle.hpp */,
+				C326128422524485001D4CFD /* snake_inflation.cpp */,
+				C326128522524485001D4CFD /* snake_inflation.hpp */,
+				C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */,
+				C37380BA224FBACF0028BA02 /* sum_subsequence.hpp */,
+				C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */,
+				C3FD38C8225B22E700C8AEC5 /* uva_227_puzzle.hpp */,
+				C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */,
+				C31A0723225A203200E1C94A /* uva_455_periodic_strings.hpp */,
+				C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */,
+				C31A0720225A088C00E1C94A /* uva_1225_digit_counting.hpp */,
+				C35A09162258E80300B7E54D /* uva_1585_score.cpp */,
+				C35A09172258E80300B7E54D /* uva_1585_score.hpp */,
+				C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */,
+				C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */,
+				C3261287225250FD001D4CFD /* vertical_column.cpp */,
+				C3261288225250FD001D4CFD /* vertical_column.hpp */,
+				C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */,
+				C32528B22261C2BE0098FFA3 /* uva_232_crossword.hpp */,
+				C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */,
+				C3193A6822633C6A005DD5D7 /* uva_1368_dna_consensus.hpp */,
+			);
+			path = PostgraduateAdmissionTest;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C37380AB224FB70D0028BA02 /* PostgraduateAdmissionTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C37380B3224FB70E0028BA02 /* Build configuration list for PBXNativeTarget "PostgraduateAdmissionTest" */;
+			buildPhases = (
+				C37380A8224FB70D0028BA02 /* Sources */,
+				C37380A9224FB70D0028BA02 /* Frameworks */,
+				C37380AA224FB70D0028BA02 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PostgraduateAdmissionTest;
+			productName = PostgraduateAdmissionTest;
+			productReference = C37380AC224FB70E0028BA02 /* PostgraduateAdmissionTest */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C37380A4224FB70D0028BA02 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0930;
+				ORGANIZATIONNAME = "王久亮";
+				TargetAttributes = {
+					C37380AB224FB70D0028BA02 = {
+						CreatedOnToolsVersion = 9.3.1;
+					};
+				};
+			};
+			buildConfigurationList = C37380A7224FB70D0028BA02 /* Build configuration list for PBXProject "PostgraduateAdmissionTest" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C37380A3224FB70D0028BA02;
+			productRefGroup = C37380AD224FB70E0028BA02 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C37380AB224FB70D0028BA02 /* PostgraduateAdmissionTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C37380A8224FB70D0028BA02 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C36B3529225C5671002EA7BF /* base_cpp_io.cpp in Sources */,
+				C35A091B2258EF1500B7E54D /* uva_1586_molar_mass.cpp in Sources */,
+				C3261289225250FD001D4CFD /* vertical_column.cpp in Sources */,
+				C37380B8224FB7640028BA02 /* reverse_triangle.cpp in Sources */,
+				C3220B7F225398540030E2C3 /* master_mind_hint.cpp in Sources */,
+				C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */,
+				C37380B0224FB70E0028BA02 /* main.cpp in Sources */,
+				C329C7C72250F9F70009AEC3 /* print_permutation.cpp in Sources */,
+				C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */,
+				C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */,
+				C3193A6922633C6A005DD5D7 /* uva_1368_dna_consensus.cpp in Sources */,
+				C31A0724225A203200E1C94A /* uva_455_periodic_strings.cpp in Sources */,
+				C37380BE224FBE2A0028BA02 /* convert_decimal.cpp in Sources */,
+				C3FD38C9225B22E700C8AEC5 /* uva_227_puzzle.cpp in Sources */,
+				C32528B32261C2BE0098FFA3 /* uva_232_crossword.cpp in Sources */,
+				C326128622524485001D4CFD /* snake_inflation.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C37380B1224FB70E0028BA02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C37380B2224FB70E0028BA02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C37380B4224FB70E0028BA02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C37380B5224FB70E0028BA02 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C37380A7224FB70D0028BA02 /* Build configuration list for PBXProject "PostgraduateAdmissionTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C37380B1224FB70E0028BA02 /* Debug */,
+				C37380B2224FB70E0028BA02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C37380B3224FB70E0028BA02 /* Build configuration list for PBXNativeTarget "PostgraduateAdmissionTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C37380B4224FB70E0028BA02 /* Debug */,
+				C37380B5224FB70E0028BA02 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C37380A4224FB70D0028BA02 /* Project object */;
+}
