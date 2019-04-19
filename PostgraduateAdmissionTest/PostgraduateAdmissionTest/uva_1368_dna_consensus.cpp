@@ -14,7 +14,7 @@
 
 using namespace std;
 
-int main() {
+int test_uva_1368_dna_consensus() {
     int T;
     cin >> T;
     map<char, int> atgc;

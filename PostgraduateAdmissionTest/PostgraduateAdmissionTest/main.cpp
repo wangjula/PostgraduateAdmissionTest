@@ -21,7 +21,8 @@
 //#include "uva_227_puzzle.hpp"
 //#include "base_cpp_io.hpp"
 //#include "uva_232_crossword.hpp"
-#include "uva_1368_dna_consensus.hpp"
+//#include "uva_1368_dna_consensus.hpp"
+#include "uva_202_repeating_decimals.hpp"
 
 int main(int argc, const char * argv[]) {
 //    test_reverse_triangle();
@@ -36,6 +37,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_455_periodic_strings();
 //    test_base_cpp_io();
 //    test_uva_232_crossword();
-    test_uva_1368_dna_consensus();
+//    test_uva_1368_dna_consensus();
+    test_uva_202_repeating_decimals();
     return 0;
 }

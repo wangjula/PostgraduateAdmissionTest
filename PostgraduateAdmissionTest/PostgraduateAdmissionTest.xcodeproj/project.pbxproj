@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C3193A6922633C6A005DD5D7 /* uva_1368_dna_consensus.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */; };
+		C3193A6C2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3193A6A2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp */; };
 		C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */; };
 		C31A0724225A203200E1C94A /* uva_455_periodic_strings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */; };
 		C3220B7F225398540030E2C3 /* master_mind_hint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3220B7D225398540030E2C3 /* master_mind_hint.cpp */; };
@@ -40,6 +41,8 @@
 /* Begin PBXFileReference section */
 		C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1368_dna_consensus.cpp; sourceTree = "<group>"; };
 		C3193A6822633C6A005DD5D7 /* uva_1368_dna_consensus.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1368_dna_consensus.hpp; sourceTree = "<group>"; };
+		C3193A6A2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_202_repeating_decimals.cpp; sourceTree = "<group>"; };
+		C3193A6B2268C1DE005DD5D7 /* uva_202_repeating_decimals.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_202_repeating_decimals.hpp; sourceTree = "<group>"; };
 		C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1225_digit_counting.cpp; sourceTree = "<group>"; };
 		C31A0720225A088C00E1C94A /* uva_1225_digit_counting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1225_digit_counting.hpp; sourceTree = "<group>"; };
 		C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_455_periodic_strings.cpp; sourceTree = "<group>"; };
@@ -117,22 +120,24 @@
 				C326128522524485001D4CFD /* snake_inflation.hpp */,
 				C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */,
 				C37380BA224FBACF0028BA02 /* sum_subsequence.hpp */,
+				C3193A6A2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp */,
+				C3193A6B2268C1DE005DD5D7 /* uva_202_repeating_decimals.hpp */,
 				C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */,
 				C3FD38C8225B22E700C8AEC5 /* uva_227_puzzle.hpp */,
+				C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */,
+				C32528B22261C2BE0098FFA3 /* uva_232_crossword.hpp */,
 				C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */,
 				C31A0723225A203200E1C94A /* uva_455_periodic_strings.hpp */,
 				C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */,
 				C31A0720225A088C00E1C94A /* uva_1225_digit_counting.hpp */,
+				C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */,
+				C3193A6822633C6A005DD5D7 /* uva_1368_dna_consensus.hpp */,
 				C35A09162258E80300B7E54D /* uva_1585_score.cpp */,
 				C35A09172258E80300B7E54D /* uva_1585_score.hpp */,
 				C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */,
 				C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */,
 				C3261287225250FD001D4CFD /* vertical_column.cpp */,
 				C3261288225250FD001D4CFD /* vertical_column.hpp */,
-				C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */,
-				C32528B22261C2BE0098FFA3 /* uva_232_crossword.hpp */,
-				C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */,
-				C3193A6822633C6A005DD5D7 /* uva_1368_dna_consensus.hpp */,
 			);
 			path = PostgraduateAdmissionTest;
 			sourceTree = "<group>";
@@ -196,6 +201,7 @@
 				C36B3529225C5671002EA7BF /* base_cpp_io.cpp in Sources */,
 				C35A091B2258EF1500B7E54D /* uva_1586_molar_mass.cpp in Sources */,
 				C3261289225250FD001D4CFD /* vertical_column.cpp in Sources */,
+				C3193A6C2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp in Sources */,
 				C37380B8224FB7640028BA02 /* reverse_triangle.cpp in Sources */,
 				C3220B7F225398540030E2C3 /* master_mind_hint.cpp in Sources */,
 				C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */,
