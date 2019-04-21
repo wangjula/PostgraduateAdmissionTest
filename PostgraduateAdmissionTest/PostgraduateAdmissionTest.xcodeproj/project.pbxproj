@@ -25,6 +25,7 @@
 		C37380BE224FBE2A0028BA02 /* convert_decimal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */; };
 		C3CD79EC226B42C20035E885 /* uva_10340_all_in_all.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79EA226B42C20035E885 /* uva_10340_all_in_all.cpp */; };
 		C3CD79EF226B468F0035E885 /* uva_1587_box.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */; };
+		C3CD79F2226C98DD0035E885 /* uva_1588_kickdown.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79F0226C98DD0035E885 /* uva_1588_kickdown.cpp */; };
 		C3FD38C9225B22E700C8AEC5 /* uva_227_puzzle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */; };
 /* End PBXBuildFile section */
 
@@ -77,6 +78,8 @@
 		C3CD79EB226B42C20035E885 /* uva_10340_all_in_all.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_10340_all_in_all.hpp; sourceTree = "<group>"; };
 		C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1587_box.cpp; sourceTree = "<group>"; };
 		C3CD79EE226B468F0035E885 /* uva_1587_box.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1587_box.hpp; sourceTree = "<group>"; };
+		C3CD79F0226C98DD0035E885 /* uva_1588_kickdown.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1588_kickdown.cpp; sourceTree = "<group>"; };
+		C3CD79F1226C98DD0035E885 /* uva_1588_kickdown.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1588_kickdown.hpp; sourceTree = "<group>"; };
 		C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_227_puzzle.cpp; sourceTree = "<group>"; };
 		C3FD38C8225B22E700C8AEC5 /* uva_227_puzzle.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_227_puzzle.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -148,6 +151,8 @@
 				C3CD79EB226B42C20035E885 /* uva_10340_all_in_all.hpp */,
 				C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */,
 				C3CD79EE226B468F0035E885 /* uva_1587_box.hpp */,
+				C3CD79F0226C98DD0035E885 /* uva_1588_kickdown.cpp */,
+				C3CD79F1226C98DD0035E885 /* uva_1588_kickdown.hpp */,
 			);
 			path = PostgraduateAdmissionTest;
 			sourceTree = "<group>";
@@ -220,6 +225,7 @@
 				C329C7C72250F9F70009AEC3 /* print_permutation.cpp in Sources */,
 				C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */,
 				C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */,
+				C3CD79F2226C98DD0035E885 /* uva_1588_kickdown.cpp in Sources */,
 				C3193A6922633C6A005DD5D7 /* uva_1368_dna_consensus.cpp in Sources */,
 				C3CD79EF226B468F0035E885 /* uva_1587_box.cpp in Sources */,
 				C31A0724225A203200E1C94A /* uva_455_periodic_strings.cpp in Sources */,
