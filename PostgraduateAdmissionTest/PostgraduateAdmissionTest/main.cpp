@@ -25,7 +25,8 @@
 //#include "uva_202_repeating_decimals.hpp"
 //#include "uva_10340_all_in_all.hpp"
 //#include "uva_1587_box.hpp"
-#include "uva_1588_kickdown.hpp"
+//#include "uva_1588_kickdown.hpp"
+#include "uva_11809_floating_point_numbers.hpp"
 
 int main(int argc, const char * argv[]) {
 //    test_reverse_triangle();
@@ -44,6 +45,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_202_repeating_decimals();
 //    test_uva_10340_all_in_all();
 //    test_uva_1587_box();
-    test_uva_1588_kickdown();
+//    test_uva_1588_kickdown();
+    test_uva_11809_floating_point_numbers();
     return 0;
 }
