@@ -26,7 +26,8 @@
 //#include "uva_10340_all_in_all.hpp"
 //#include "uva_1587_box.hpp"
 //#include "uva_1588_kickdown.hpp"
-#include "uva_11809_floating_point_numbers.hpp"
+//#include "uva_11809_floating_point_numbers.hpp"
+#include "uva_489_hangman_judge.hpp"
 
 int main(int argc, const char * argv[]) {
 //    test_reverse_triangle();
@@ -46,6 +47,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_10340_all_in_all();
 //    test_uva_1587_box();
 //    test_uva_1588_kickdown();
-    test_uva_11809_floating_point_numbers();
+//    test_uva_11809_floating_point_numbers();
+    test_uva_489_hangman_judge();
     return 0;
 }
