@@ -25,6 +25,7 @@
 		C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */; };
 		C37380BE224FBE2A0028BA02 /* convert_decimal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */; };
 		C391C9A9226D59A6005BF406 /* uva_11809_floating_point_numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C391C9A7226D59A6005BF406 /* uva_11809_floating_point_numbers.cpp */; };
+		C3923DCB22759A72008042F4 /* uva_213_message_decoding.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3923DC922759A72008042F4 /* uva_213_message_decoding.cpp */; };
 		C3B8A6B9227044430094AD29 /* uva_133_the_dole_queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3B8A6B7227044430094AD29 /* uva_133_the_dole_queue.cpp */; };
 		C3CD79EC226B42C20035E885 /* uva_10340_all_in_all.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79EA226B42C20035E885 /* uva_10340_all_in_all.cpp */; };
 		C3CD79EF226B468F0035E885 /* uva_1587_box.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */; };
@@ -81,6 +82,8 @@
 		C37380BD224FBE2A0028BA02 /* convert_decimal.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = convert_decimal.hpp; sourceTree = "<group>"; };
 		C391C9A7226D59A6005BF406 /* uva_11809_floating_point_numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_11809_floating_point_numbers.cpp; sourceTree = "<group>"; };
 		C391C9A8226D59A6005BF406 /* uva_11809_floating_point_numbers.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_11809_floating_point_numbers.hpp; sourceTree = "<group>"; };
+		C3923DC922759A72008042F4 /* uva_213_message_decoding.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_213_message_decoding.cpp; sourceTree = "<group>"; };
+		C3923DCA22759A72008042F4 /* uva_213_message_decoding.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_213_message_decoding.hpp; sourceTree = "<group>"; };
 		C3B8A6B7227044430094AD29 /* uva_133_the_dole_queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_133_the_dole_queue.cpp; sourceTree = "<group>"; };
 		C3B8A6B8227044430094AD29 /* uva_133_the_dole_queue.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_133_the_dole_queue.hpp; sourceTree = "<group>"; };
 		C3CD79EA226B42C20035E885 /* uva_10340_all_in_all.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_10340_all_in_all.cpp; sourceTree = "<group>"; };
@@ -138,14 +141,20 @@
 				C326128522524485001D4CFD /* snake_inflation.hpp */,
 				C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */,
 				C37380BA224FBACF0028BA02 /* sum_subsequence.hpp */,
+				C3B8A6B7227044430094AD29 /* uva_133_the_dole_queue.cpp */,
+				C3B8A6B8227044430094AD29 /* uva_133_the_dole_queue.hpp */,
 				C3193A6A2268C1DE005DD5D7 /* uva_202_repeating_decimals.cpp */,
 				C3193A6B2268C1DE005DD5D7 /* uva_202_repeating_decimals.hpp */,
+				C3923DC922759A72008042F4 /* uva_213_message_decoding.cpp */,
+				C3923DCA22759A72008042F4 /* uva_213_message_decoding.hpp */,
 				C3FD38C7225B22E700C8AEC5 /* uva_227_puzzle.cpp */,
 				C3FD38C8225B22E700C8AEC5 /* uva_227_puzzle.hpp */,
 				C32528B12261C2BE0098FFA3 /* uva_232_crossword.cpp */,
 				C32528B22261C2BE0098FFA3 /* uva_232_crossword.hpp */,
 				C31A0722225A203200E1C94A /* uva_455_periodic_strings.cpp */,
 				C31A0723225A203200E1C94A /* uva_455_periodic_strings.hpp */,
+				C36AAAB3226F559C0058C279 /* uva_489_hangman_judge.cpp */,
+				C36AAAB4226F559C0058C279 /* uva_489_hangman_judge.hpp */,
 				C31A071F225A088C00E1C94A /* uva_1225_digit_counting.cpp */,
 				C31A0720225A088C00E1C94A /* uva_1225_digit_counting.hpp */,
 				C3193A6722633C6A005DD5D7 /* uva_1368_dna_consensus.cpp */,
@@ -154,20 +163,16 @@
 				C35A09172258E80300B7E54D /* uva_1585_score.hpp */,
 				C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */,
 				C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */,
-				C3261287225250FD001D4CFD /* vertical_column.cpp */,
-				C3261288225250FD001D4CFD /* vertical_column.hpp */,
-				C3CD79EA226B42C20035E885 /* uva_10340_all_in_all.cpp */,
-				C3CD79EB226B42C20035E885 /* uva_10340_all_in_all.hpp */,
 				C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */,
 				C3CD79EE226B468F0035E885 /* uva_1587_box.hpp */,
 				C3CD79F0226C98DD0035E885 /* uva_1588_kickdown.cpp */,
 				C3CD79F1226C98DD0035E885 /* uva_1588_kickdown.hpp */,
+				C3CD79EA226B42C20035E885 /* uva_10340_all_in_all.cpp */,
+				C3CD79EB226B42C20035E885 /* uva_10340_all_in_all.hpp */,
 				C391C9A7226D59A6005BF406 /* uva_11809_floating_point_numbers.cpp */,
 				C391C9A8226D59A6005BF406 /* uva_11809_floating_point_numbers.hpp */,
-				C36AAAB3226F559C0058C279 /* uva_489_hangman_judge.cpp */,
-				C36AAAB4226F559C0058C279 /* uva_489_hangman_judge.hpp */,
-				C3B8A6B7227044430094AD29 /* uva_133_the_dole_queue.cpp */,
-				C3B8A6B8227044430094AD29 /* uva_133_the_dole_queue.hpp */,
+				C3261287225250FD001D4CFD /* vertical_column.cpp */,
+				C3261288225250FD001D4CFD /* vertical_column.hpp */,
 			);
 			path = PostgraduateAdmissionTest;
 			sourceTree = "<group>";
@@ -242,6 +247,7 @@
 				C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */,
 				C3CD79F2226C98DD0035E885 /* uva_1588_kickdown.cpp in Sources */,
 				C3193A6922633C6A005DD5D7 /* uva_1368_dna_consensus.cpp in Sources */,
+				C3923DCB22759A72008042F4 /* uva_213_message_decoding.cpp in Sources */,
 				C3CD79EF226B468F0035E885 /* uva_1587_box.cpp in Sources */,
 				C36AAAB5226F559C0058C279 /* uva_489_hangman_judge.cpp in Sources */,
 				C31A0724225A203200E1C94A /* uva_455_periodic_strings.cpp in Sources */,
