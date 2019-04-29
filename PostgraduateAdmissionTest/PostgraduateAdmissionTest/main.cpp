@@ -29,7 +29,8 @@
 //#include "uva_11809_floating_point_numbers.hpp"
 //#include "uva_489_hangman_judge.hpp"
 //#include "uva_133_the_dole_queue.hpp"
-#include "uva_213_message_decoding.hpp"
+//#include "uva_213_message_decoding.hpp"
+#include "uva_512_spreadsheet_tracking.hpp"
 
 
 int main(int argc, const char * argv[]) {
@@ -53,6 +54,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_11809_floating_point_numbers();
 //    test_uva_489_hangman_judge();
 //    test_uva_133_the_dole_queue();
-    test_uva_213_message_decoding();
+//    test_uva_213_message_decoding();
+    test_uva_512_spreadsheet_tracking();
     return 0;
 }
