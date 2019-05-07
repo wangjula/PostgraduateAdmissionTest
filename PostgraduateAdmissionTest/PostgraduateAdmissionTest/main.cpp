@@ -31,7 +31,8 @@
 //#include "uva_133_the_dole_queue.hpp"
 //#include "uva_213_message_decoding.hpp"
 //#include "uva_512_spreadsheet_tracking.hpp"
-#include "uva_1339_ancient_cipher.hpp"
+//#include "uva_1339_ancient_cipher.hpp"
+#include "uva_1589_xiangqi.hpp"
 
 
 int main(int argc, const char * argv[]) {
@@ -57,6 +58,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_133_the_dole_queue();
 //    test_uva_213_message_decoding();
 //    test_uva_512_spreadsheet_tracking();
-    test_uva_1339_ancient_cipher();
+//    test_uva_1339_ancient_cipher();
+    test_uva_1589_xiangqi();
     return 0;
 }
