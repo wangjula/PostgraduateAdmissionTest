@@ -22,6 +22,7 @@
 		C35A091B2258EF1500B7E54D /* uva_1586_molar_mass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */; };
 		C36AAAB5226F559C0058C279 /* uva_489_hangman_judge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36AAAB3226F559C0058C279 /* uva_489_hangman_judge.cpp */; };
 		C36B3529225C5671002EA7BF /* base_cpp_io.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36B3527225C5671002EA7BF /* base_cpp_io.cpp */; };
+		C36BD59A2283F2A000F1CEF5 /* uva_201_squares.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36BD5982283F2A000F1CEF5 /* uva_201_squares.cpp */; };
 		C37380B0224FB70E0028BA02 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380AF224FB70E0028BA02 /* main.cpp */; };
 		C37380B8224FB7640028BA02 /* reverse_triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380B6224FB7640028BA02 /* reverse_triangle.cpp */; };
 		C37380BB224FBACF0028BA02 /* sum_subsequence.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C37380B9224FBACF0028BA02 /* sum_subsequence.cpp */; };
@@ -79,6 +80,8 @@
 		C36AAAB4226F559C0058C279 /* uva_489_hangman_judge.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_489_hangman_judge.hpp; sourceTree = "<group>"; };
 		C36B3527225C5671002EA7BF /* base_cpp_io.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = base_cpp_io.cpp; sourceTree = "<group>"; };
 		C36B3528225C5671002EA7BF /* base_cpp_io.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = base_cpp_io.hpp; sourceTree = "<group>"; };
+		C36BD5982283F2A000F1CEF5 /* uva_201_squares.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_201_squares.cpp; sourceTree = "<group>"; };
+		C36BD5992283F2A000F1CEF5 /* uva_201_squares.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_201_squares.hpp; sourceTree = "<group>"; };
 		C37380AC224FB70E0028BA02 /* PostgraduateAdmissionTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PostgraduateAdmissionTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C37380AF224FB70E0028BA02 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C37380B6224FB7640028BA02 /* reverse_triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = reverse_triangle.cpp; sourceTree = "<group>"; };
@@ -138,6 +141,8 @@
 				C36B3527225C5671002EA7BF /* base_cpp_io.cpp */,
 				C36B3528225C5671002EA7BF /* base_cpp_io.hpp */,
 				C37380BC224FBE2A0028BA02 /* convert_decimal.cpp */,
+				C36BD5982283F2A000F1CEF5 /* uva_201_squares.cpp */,
+				C36BD5992283F2A000F1CEF5 /* uva_201_squares.hpp */,
 				C37380BD224FBE2A0028BA02 /* convert_decimal.hpp */,
 				C37380AF224FB70E0028BA02 /* main.cpp */,
 				C3220B7D225398540030E2C3 /* master_mind_hint.cpp */,
@@ -257,6 +262,7 @@
 				C37380B8224FB7640028BA02 /* reverse_triangle.cpp in Sources */,
 				C3220B7F225398540030E2C3 /* master_mind_hint.cpp in Sources */,
 				C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */,
+				C36BD59A2283F2A000F1CEF5 /* uva_201_squares.cpp in Sources */,
 				C37380B0224FB70E0028BA02 /* main.cpp in Sources */,
 				C329C7C72250F9F70009AEC3 /* print_permutation.cpp in Sources */,
 				C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */,
