@@ -35,7 +35,8 @@
 //#include "uva_1589_xiangqi.hpp"
 //#include "uva_201_squares.hpp"
 //#include "uva_253_cube_painting.hpp"
-#include "uva_1590_ip_networks.hpp"
+//#include "uva_1590_ip_networks.hpp"
+#include "uva_508_morse_mismatches.hpp"
 
 
 int main(int argc, const char * argv[]) {
@@ -65,6 +66,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_1589_xiangqi();
 //    test_uva_201_squares();
 //    test_uva_253_cube_painting();
-    test_uva_1590_ip_networks();
+//    test_uva_1590_ip_networks();
+    test_uva_508_morse_mismatches();
     return 0;
 }
