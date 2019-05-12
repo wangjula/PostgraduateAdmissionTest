@@ -34,7 +34,8 @@
 //#include "uva_1339_ancient_cipher.hpp"
 //#include "uva_1589_xiangqi.hpp"
 //#include "uva_201_squares.hpp"
-#include "uva_253_cube_painting.hpp"
+//#include "uva_253_cube_painting.hpp"
+#include "uva_1590_ip_networks.hpp"
 
 
 int main(int argc, const char * argv[]) {
@@ -63,6 +64,7 @@ int main(int argc, const char * argv[]) {
 //    test_uva_1339_ancient_cipher();
 //    test_uva_1589_xiangqi();
 //    test_uva_201_squares();
-    test_uva_253_cube_painting();
+//    test_uva_253_cube_painting();
+    test_uva_1590_ip_networks();
     return 0;
 }

@@ -21,6 +21,7 @@
 		C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C35A09162258E80300B7E54D /* uva_1585_score.cpp */; };
 		C35A091B2258EF1500B7E54D /* uva_1586_molar_mass.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */; };
 		C36A0A72228570DC00E908A3 /* uva_253_cube_painting.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36A0A70228570DC00E908A3 /* uva_253_cube_painting.cpp */; };
+		C36A0A752286D4A400E908A3 /* uva_1590_ip_networks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36A0A732286D4A400E908A3 /* uva_1590_ip_networks.cpp */; };
 		C36AAAB5226F559C0058C279 /* uva_489_hangman_judge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36AAAB3226F559C0058C279 /* uva_489_hangman_judge.cpp */; };
 		C36B3529225C5671002EA7BF /* base_cpp_io.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36B3527225C5671002EA7BF /* base_cpp_io.cpp */; };
 		C36BD59A2283F2A000F1CEF5 /* uva_201_squares.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C36BD5982283F2A000F1CEF5 /* uva_201_squares.cpp */; };
@@ -79,6 +80,8 @@
 		C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1586_molar_mass.hpp; sourceTree = "<group>"; };
 		C36A0A70228570DC00E908A3 /* uva_253_cube_painting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_253_cube_painting.cpp; sourceTree = "<group>"; };
 		C36A0A71228570DC00E908A3 /* uva_253_cube_painting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_253_cube_painting.hpp; sourceTree = "<group>"; };
+		C36A0A732286D4A400E908A3 /* uva_1590_ip_networks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_1590_ip_networks.cpp; sourceTree = "<group>"; };
+		C36A0A742286D4A400E908A3 /* uva_1590_ip_networks.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_1590_ip_networks.hpp; sourceTree = "<group>"; };
 		C36AAAB3226F559C0058C279 /* uva_489_hangman_judge.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = uva_489_hangman_judge.cpp; sourceTree = "<group>"; };
 		C36AAAB4226F559C0058C279 /* uva_489_hangman_judge.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = uva_489_hangman_judge.hpp; sourceTree = "<group>"; };
 		C36B3527225C5671002EA7BF /* base_cpp_io.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = base_cpp_io.cpp; sourceTree = "<group>"; };
@@ -183,6 +186,8 @@
 				C35A09192258EF1500B7E54D /* uva_1586_molar_mass.cpp */,
 				C35A091A2258EF1500B7E54D /* uva_1586_molar_mass.hpp */,
 				C3CD79ED226B468F0035E885 /* uva_1587_box.cpp */,
+				C36A0A732286D4A400E908A3 /* uva_1590_ip_networks.cpp */,
+				C36A0A742286D4A400E908A3 /* uva_1590_ip_networks.hpp */,
 				C3CD79EE226B468F0035E885 /* uva_1587_box.hpp */,
 				C3CD79F0226C98DD0035E885 /* uva_1588_kickdown.cpp */,
 				C3CD79F1226C98DD0035E885 /* uva_1588_kickdown.hpp */,
@@ -269,6 +274,7 @@
 				C35A09182258E80300B7E54D /* uva_1585_score.cpp in Sources */,
 				C36BD59A2283F2A000F1CEF5 /* uva_201_squares.cpp in Sources */,
 				C37380B0224FB70E0028BA02 /* main.cpp in Sources */,
+				C36A0A752286D4A400E908A3 /* uva_1590_ip_networks.cpp in Sources */,
 				C329C7C72250F9F70009AEC3 /* print_permutation.cpp in Sources */,
 				C31A0721225A088C00E1C94A /* uva_1225_digit_counting.cpp in Sources */,
 				C34DA5822279A43200FA7F25 /* uva_1339_ancient_cipher.cpp in Sources */,
